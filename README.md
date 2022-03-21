@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given the following tasks to complete the election audit.
+A Colorado Board of Elections employee has requested an audit of the election.
 
 ## Election Audit Results
 
