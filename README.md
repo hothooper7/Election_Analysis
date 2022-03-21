@@ -1,11 +1,11 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has requested an audit of the election.
+The Colorado Board of Elections has requested an audit of the election.
 
 ## Election Audit Results
 
-1. Calculate the total number of votes cast.
+1. Total number of votes cast
     - 369,711 Total Votes Cast
 2. Number of votes per county and percentage of total votes
     - Jefferson County 38,855 Votes (10.5% of total)
